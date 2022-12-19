@@ -1,5 +1,5 @@
 # Work Day Scheduler 
-This is a simple workday scheduler that allows the user to input items into the schedule (9am-5pm) werethat can be saved and seen even when it is refreshed.
+This is a simple workday scheduler that allows the user to input items into the schedule (9am-5pm) that can be saved and seen even when the page is refreshed.
 
 The tools used were:
 - HTML
